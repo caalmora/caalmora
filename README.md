@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**caalmora/caalmora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
